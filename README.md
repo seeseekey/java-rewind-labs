@@ -1,6 +1,6 @@
 # Java Rewind Labs
 
-Begleitende Übungen zur zum Java Rewind Talk.
+Begleitende Übungen zum Java Rewind Talk.
 
 Dieses Verzeichnis kann als eigenes Lab-Repository genutzt werden. Jedes Lab ist eigenständig aufgebaut:
 
